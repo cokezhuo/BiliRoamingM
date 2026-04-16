@@ -58,7 +58,7 @@ cd BiliRoamingM
 
 - 参照 [revanced-cli](https://github.com/ReVanced/revanced-cli/tree/main/docs) 文档打包
   1. 下载定制版 [revanced-cli.jar](https://github.com/cokezhuo/revanced-cli/releases/tag/v4.6.0.2)
-  2. 从 [releases](https://github.com/sakarie9/BiliRoamingM/releases/latest) 下载 `integrations.apk` 和 `patches.jar`
+  2. 从 [releases](https://github.com/cokezhuo/BiliRoamingM/releases/tag/v1.23.3.8) 下载 `integrations.apk` 和 `patches.jar`
   3. 执行终端命令 `java -jar revanced-cli.jar patch --merge integrations.apk --patch-bundle patches.jar --signing-levels 1,2,3 bilibili.apk`
 
 > [!NOTE]
